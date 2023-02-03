@@ -3,5 +3,7 @@
 Home Page</title>
 <body>
 This is Blog Page
+hello
+how are you
 </body>
 </html>
